@@ -1,5 +1,7 @@
-# Фиксируем точную версию aiogram 2.x
+# Основные зависимости
 aiogram==2.25.1
+google-generativeai==0.8.3
 python-dotenv==1.0.0
 Pillow==10.1.0
 aiofiles==23.2.1
+requests==2.31.0
