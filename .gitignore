@@ -1,0 +1,29 @@
+# Виртуальное окружение
+venv/
+env/
+ENV/
+
+# База данных
+*.db
+*.db-journal
+*.sqlite3
+
+# Файлы с секретами
+.env
+.env.local
+config.local.py
+
+# Кэш Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Логи
+logs/
+*.log
+
+# Временные файлы
+temp/
+downloads/
